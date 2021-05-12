@@ -1,0 +1,112 @@
+body {
+  color: rgb(40,40,40);
+  background-color: rgb(245,245,245);
+  font-family: ;
+  font-size: 25px;
+  line-height: ;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: #264653;
+}
+
+#profile {
+  height: 80px;
+  width: 80px;
+  border-radius: 4px;
+  position: right;
+}
+
+.paragraph-logo {
+  height: 180px;
+  width: 240px;
+  text-align: right;
+}
+
+h1 {
+  text-align: left;
+  font-family: 'Heebo', sans-serif;
+  color: white;
+  padding: 40px;
+}
+
+h2 {
+  font-family: 'Heebo', sans-serif;
+  color: #264653;
+}
+
+p {
+  text-align: left;
+  font-size: 15px;
+  padding-left: 50px;
+  padding-bottom: 45px;
+}
+
+.footer {
+  background-color: rgb(240,240,240);
+}
+
+.gs-align {
+  text-align: left;
+}
+
+.container {
+  margin: 0px;
+  padding: 20px;
+}
+
+#banner {
+  background-image: url(https://images.prismic.io/fft-rg-commun-news/ccf8df95-6187-4c20-bdf7-30405506f2f4_20200128_OA_CD_4185_web.jpg?auto=compress,format);
+  background-size: cover;
+  padding: 50px;
+  text-align: center;
+  color: white;
+}
+
+div {
+  background: white;
+  margin: 40px 100px;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+}
+
+a {
+  font-size: 30px;
+  color: grey;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(180,180,180);
+}
+
+ul {
+  padding-left: 0px;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+  display: inline-block;
+  padding: 5px;
+}
+
+#button {
+  /* border-radius: 50%; */
+  background-color: rgb(230,230,230);
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(0,0,1,.1); 
+}
+
+#button:hover {
+  text-decoration: none;
+  background-color: rgb(220,220,220);
+  color: rgb(80,80,80);
+}
+
+.trophy {
+  font-size: 50px;
+}
+
